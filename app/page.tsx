@@ -50,7 +50,7 @@ export default function Home() {
             className="underline duration-500 hover:text-zinc-300"
           >
             Dhruv Aggarwal
-          </Link>
+          </Link>.
           <br></br>
           to tinker with technology and build cool stuff.
         </h2>
