@@ -38,7 +38,7 @@ export default function Home() {
           Reckless Labs was started by{" "}
           <Link
             target="_blank"
-            href="https://atharvashukla/"
+            href="https://atharvashukla.com/"
             className="underline duration-500 hover:text-zinc-300"
           >
             Atharva Shukla
@@ -46,12 +46,13 @@ export default function Home() {
           and{" "}
           <Link
             target="_blank"
-            href="https://twitter.com/"
+            href="https://twitter.com/DhruvAggs"
             className="underline duration-500 hover:text-zinc-300"
           >
             Dhruv Aggarwal
           </Link>
-          .
+          <br></br>
+          to tinker with technology and build cool stuff.
         </h2>
       </div>
     </div>
